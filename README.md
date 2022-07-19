@@ -1,5 +1,5 @@
-# pacMen-exercise
-## MIT xPro certificate - PacMen Exercise.
+# pacMan-exercise
+## MIT xPro certificate - PacMan Exercise.
 ## Description
 In this exercise, we practiced; when "make one" button is pressed, positioned the new Pacman image, and added it to the "game" div. It is then added to the array of Pacman, which keeps track of the position and velocity of each Pacman and each Pacman bounce off any wall it hits.
 Future improvements; I will work on using other pictures to animate Pacman. While it is bouncing.
